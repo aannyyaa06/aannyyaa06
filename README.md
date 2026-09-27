@@ -18,13 +18,13 @@ I started with the usual C++/DSA grind, but somewhere along the way fell into ba
 
 I don't chase "using every framework." I'm the person who'll pick apart a slow query or a messy pipeline until it makes sense, then rebuild it faster. That instinct is basically my whole career so far:
 
-- 🔧 At **Dell**, I rebuilt a retrieval system across **85M+ records**, cutting latency by **30%**
-- ⛓️ At **IIT Kanpur's C3iHub**, I spent two summers wiring together **27+ blockchain APIs** and untangling Bitcoin transaction data at scale
-- 🧩 **400+ DSA problems** across LeetCode, CodeChef & GFG — **5★ CodeChef (2056 rating)**, plus competitive programming through **ICPC** and **Algo Queen**
-- 🔐 **Security curious** — competed in the **IIT Jodhpur CTF**, poking at systems from the other side for a change
-- 🛠️ **Systems tinkerer** — multi-chain blockchain pipelines, vector + keyword + SQL hybrid search, idempotent ingestion for **80,000+ transactions**
-- 👁️ **ML curious** — built a real-time face detection / emotion recognition app from scratch with OpenCV and a mix of classical + deep models
-- 🏆 **Competitive streak** — Top 50 of 400+ teams nationally, 4th of 219 in an energy-optimization hackathon, top 10 of 200+ in Deloitte's capstone
+- At **Dell**, I rebuilt a retrieval system across **85M+ records**, cutting latency by **30%**
+- At **IIT Kanpur's C3iHub**, I spent two summers wiring together **27+ blockchain APIs** and untangling Bitcoin transaction data at scale
+- **400+ DSA problems** across LeetCode, CodeChef & GFG — **5★ CodeChef (2056 rating)**, plus competitive programming through **ICPC** and **Algo Queen**
+- **Security curious** — competed in the **IIT Jodhpur CTF**, poking at systems from the other side for a change
+- **Systems tinkerer** — multi-chain blockchain pipelines, vector + keyword + SQL hybrid search, idempotent ingestion for **80,000+ transactions**
+- **ML curious** — built a real-time face detection / emotion recognition app from scratch with OpenCV and a mix of classical + deep models
+- **Competitive streak** — Top 50 of 400+ teams nationally, 4th of 219 in an energy-optimization hackathon, top 10 of 200+ in Deloitte's capstone
 
 I'm not chasing a "clean" resume story — I'm chasing systems that work, and I'm happiest when I'm elbow-deep in one that doesn't yet.
 
