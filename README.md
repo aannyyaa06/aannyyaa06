@@ -1,4 +1,3 @@
-
 <h1 align="center">💫 Hi 👋, I'm Aanya Katiyar</h1>
 <h3 align="center">Backend-leaning full-stack builder | Systems Tinkerer | Problem Solver at Heart</h3>
 
@@ -65,7 +64,7 @@ I'm not chasing a "clean" resume story — I'm chasing systems that work, and I'
 
 
 <p align="center">
-  <img src="https://profile-reader-generator.vercel.app/assets/snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/aannyyaa06/aannyyaa06/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </p>
 
 ---
