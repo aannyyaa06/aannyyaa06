@@ -1,4 +1,4 @@
-<h1 align="center">💫 Hi 👋, I'm Aanya Katiyar</h1>
+<h1 align="center">💫 Hi, I'm Aanya Katiyar</h1>
 <h3 align="center">Backend-leaning full-stack builder | Systems Tinkerer | Problem Solver at Heart</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I started with the usual C++/DSA grind, but somewhere along the way fell into backend systems, data pipelines, and computer vision — and never really left.
 
