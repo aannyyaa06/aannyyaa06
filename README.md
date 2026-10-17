@@ -30,7 +30,7 @@ I'm not chasing a "clean" resume story — I'm chasing systems that work, and I'
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -54,7 +54,7 @@ I'm not chasing a "clean" resume story — I'm chasing systems that work, and I'
 
 ---
 
-### 📊 GitHub Stats
+### 
 
 <p align="center">
 
@@ -69,7 +69,7 @@ I'm not chasing a "clean" resume story — I'm chasing systems that work, and I'
 
 ---
 
-### ✍️ Random Dev Quote
+### 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
